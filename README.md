@@ -1,6 +1,6 @@
 # Moonlighter 4:3 Aspect Ratio Patch
 
-Work in progress. Native 4:3 for **Moonlighter**, aimed at the **Retroid Pocket Nova** (4.5", 1280x960) and other 4:3 displays. Part of the [Nova 4:3 collection](https://jevonlipsey.github.io/nova-43aspect/).
+Work in progress. **Moonlighter** on the **Retroid Pocket Nova** / DroidDeck (Proton) did not start at all; the patch here fixes that, and the game then fills a 4:3 screen on its own. Dungeon-room framing is still being looked at. Aimed at the,  (4.5", 1280x960) and other 4:3 displays. Part of the [Nova 4:3 collection](https://jevonlipsey.github.io/nova-43aspect/).
 
 The patcher will ship only our own patch logic and modify your own copy of the game. **No game code is redistributed.**
 
