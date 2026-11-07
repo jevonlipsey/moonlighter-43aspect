@@ -23,7 +23,7 @@ public sealed class PatchResult
 /// bytes in, verified bytes out. No file or console i/o, so the CLI and the browser (wasm) share it.
 public static class PatchApi
 {
-    public const string Version = "v1.0";
+    public const string Version = "v1.1";
     private static readonly object Gate = new();
 
     public static PatchResult Patch(byte[] input, PatchOptions? opt = null)
